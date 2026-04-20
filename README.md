@@ -18,21 +18,24 @@ Here are some ideas to get you started:
 💻 Passionate about building real-world software and clean user experiences  
   
 🚀 Skills  
-Languages: Java, JavaScript, HTML, CSS, Python, C/C++  
-Concepts: OOP, Data Structures, Problem Solving  
-Web Development: Frontend basics, responsive design  
-Databases: CRUD operations, database integration  
-Tools: Git, GitHub  
+-  Languages: Java, JavaScript, HTML, CSS, Python, C/C++  
+-  Concepts: OOP, Data Structures, Problem Solving  
+-  Web Development: Frontend basics, responsive design  
+-  Databases: CRUD operations, database integration  
+-  Tools: Git, GitHub  
+
 🌱 Currently Learning  
-Backend development  
-System design basics  
-Improving full-stack skills  
+-  Backend development  
+-  System design basics  
+-  mproving full-stack skills  
+
 🎯 Goals  
-Build scalable web applications  
-Gain real-world development experience  
-Grow into a strong software engineer  
+-  Build scalable web applications  
+-  Gain real-world development experience  
+-  Grow into a strong software engineer
+  
 📫 Contact  
-LinkedIn: www.linkedin.com/in/safia-mohamed-4b1530238  
-Email: safiam2006@gmail.com  
+-  LinkedIn: www.linkedin.com/in/safia-mohamed-4b1530238  
+-  Email: safiam2006@gmail.com  
   
 ⭐ I’m open to internships and learning opportunities  
