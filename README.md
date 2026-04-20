@@ -17,24 +17,24 @@ Here are some ideas to get you started:
 🎓 Computer Science student at Cairo University  
 💻 Passionate about building real-world software and clean user experiences  
   
-🚀 Skills
+🚀 Skills:
 -  Languages: Java, JavaScript, HTML, CSS, Python, C/C++  
 -  Concepts: OOP, Data Structures, Problem Solving  
 -  Web Development: Frontend basics, responsive design  
 -  Databases: CRUD operations, database integration  
 -  Tools: Git, GitHub  
 
-🌱 Currently Learning
+🌱 Currently Learning:
 -  Backend development  
 -  System design basics  
 -  mproving full-stack skills  
 
-🎯 Goals
+🎯 Goals:
 -  Build scalable web applications  
 -  Gain real-world development experience  
 -  Grow into a strong software engineer
   
-📫 Contact
+📫 Contact:
 -  LinkedIn: www.linkedin.com/in/safia-mohamed-4b1530238  
 -  Email: safiam2006@gmail.com  
   
