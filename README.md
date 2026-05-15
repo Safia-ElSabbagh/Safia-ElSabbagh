@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## About Me
  
-I'm a Computer Science student passionate about writing clean code and building real-world software with clean user experiences. I enjoy working across the stack — from structuring data and logic to crafting responsive, intuitive interfaces.
+I'm a Third year Computer Science student passionate about writing clean code and building real-world software with clean user experiences. I enjoy working across the stack — from structuring data and logic to crafting responsive, intuitive interfaces.
 
 I'm currently deepening my skills in **Software development** and **system design**, with a long-term goal of building scalable, real-world applications.
 
