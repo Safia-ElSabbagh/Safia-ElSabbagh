@@ -72,9 +72,9 @@ I'm currently deepening my skills in **Software development** and **system desig
 
 ## GitHub Stats
  
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safia-ElSabbagh&theme=github" width="100%"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Safia-ElSabbagh&theme=github" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Safia-ElSabbagh&theme=github" height="160"/>
